@@ -1,6 +1,6 @@
 import myLogo from '../assets/myLogo.png';
 import portrait from '../assets/me.png';
-import email from '../assets/email.png';
+import email from '../assets/emailIcon.png';
 import mobile from '../assets/mobile.png';
 import api from '../assets/api.png';
 import cpp from '../assets/cpp.png';
@@ -17,7 +17,6 @@ import python from '../assets/python.png';
 import react from '../assets/react.png';
 import redux from '../assets/redux.png';
 import sass from '../assets/sass.png';
-
 
 import about01 from '../assets/about01.png';
 import about02 from '../assets/about02.png';
